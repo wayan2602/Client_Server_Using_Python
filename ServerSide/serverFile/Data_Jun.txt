@@ -1,0 +1,1000 @@
+ID_KEL	Nama_provinsi	nama_kota	nama_kecamatan	nama_kelurahan	POSITIF	Dirawat	Sembuh	Meninggal	Self Isolation	Keterangan																						
+				TOTAL	1265264	591	1241429	15313	7931																							
+3172051003	DKI JAKARTA	JAKARTA UTARA	PADEMANGAN	ANCOL	2817	3	2772	30	12																							
+3173041007	DKI JAKARTA	JAKARTA BARAT	TAMBORA	ANGKE	2737	2	2693	35	7																							
+3175041005	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	BALE KAMBANG	3109	2	3063	36	8																							
+3175031003	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	BALI MESTER	1291	0	1261	20	10																							
+3175101006	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	BAMBU APUS	4115	0	4069	36	10																							
+3174031002	DKI JAKARTA	JAKARTA SELATAN	MAMPANG PRAPATAN	BANGKA	2995	1	2933	29	32																							
+3175051002	DKI JAKARTA	JAKARTA TIMUR	PASAR REBO	BARU	3599	0	3553	43	3																							
+3175041004	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	BATU AMPAR	5605	1	5503	83	18																							
+3171071002	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	BENDUNGAN HILIR	3341	0	3268	47	26																							
+3175031002	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	BIDARA CINA	4352	0	4263	69	20																							
+3174101002	DKI JAKARTA	JAKARTA SELATAN	PESANGGRAHAN	BINTARO	6131	2	5956	93	80																							
+3174011005	DKI JAKARTA	JAKARTA SELATAN	TEBET	BUKIT DURI	3379	1	3333	39	6																							
+3171041006	DKI JAKARTA	JAKARTA PUSAT	SENEN	BUNGUR	2048	2	2013	28	5																							
+3175061007	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	CAKUNG BARAT	2817	1	2786	29	1																							
+3175061004	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	CAKUNG TIMUR	4111	1	4034	58	18																							
+3175041007	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	CAWANG	4320	1	4260	43	16																							
+3175101008	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	CEGER	2826	0	2770	38	18																							
+3171031006	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	CEMPAKA BARU	4173	1	4097	68	7																							
+3171051002	DKI JAKARTA	JAKARTA PUSAT	CEMPAKA PUTIH	CEMPAKA PUTIH BARAT	5654	4	5543	86	21																							
+3171051001	DKI JAKARTA	JAKARTA PUSAT	CEMPAKA PUTIH	CEMPAKA PUTIH TIMUR	4590	1	4486	63	40																							
+3173011001	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	CENGKARENG BARAT	8251	2	8085	120	44																							
+3173011006	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	CENGKARENG TIMUR	8574	4	8406	119	45																							
+3175091002	DKI JAKARTA	JAKARTA TIMUR	CIRACAS	CIBUBUR	8230	4	8101	87	38																							
+3171011002	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	CIDENG	2579	1	2525	37	16																							
+3174091003	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	CIGANJUR	5648	2	5554	60	32																							
+3175051003	DKI JAKARTA	JAKARTA TIMUR	PASAR REBO	CIJANTUNG	5223	0	5117	90	16																							
+3171061003	DKI JAKARTA	JAKARTA PUSAT	MENTENG	CIKINI	1147	1	1123	16	7																							
+3174081006	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	CIKOKO	1815	0	1792	15	8																							
+3174061001	DKI JAKARTA	JAKARTA SELATAN	CILANDAK	CILANDAK BARAT	8664	5	8491	78	90																							
+3174041003	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	CILANDAK TIMUR	4058	0	4005	33	20																							
+3175101002	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	CILANGKAP	4205	1	4159	39	6																							
+3175041006	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	CILILITAN	4811	1	4722	76	12																							
+3172041001	DKI JAKARTA	JAKARTA UTARA	CILINCING	CILINCING	3402	0	3342	59	1																							
+3175101001	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	CIPAYUNG	4890	2	4828	40	20																							
+3174091006	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	CIPEDAK	4767	2	4688	57	20																							
+3174061005	DKI JAKARTA	JAKARTA SELATAN	CILANDAK	CIPETE SELATAN	3865	3	3750	51	61																							
+3174071010	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	CIPETE UTARA	4035	2	3949	56	28																							
+3175021003	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	CIPINANG	5187	4	5068	88	27																							
+3175031007	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	CIPINANG BESAR SELATAN	3853	3	3773	46	31																							
+3175031008	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	CIPINANG BESAR UTARA	3753	0	3682	65	6																							
+3175031005	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	CIPINANG CEMPEDAK	3948	3	3861	62	22																							
+3175081005	DKI JAKARTA	JAKARTA TIMUR	MAKASAR	CIPINANG MELAYU	5177	2	5069	75	31																							
+3175031006	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	CIPINANG MUARA	7008	1	6836	122	49																							
+3174051003	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	CIPULIR	3919	2	3839	59	19																							
+3175091001	DKI JAKARTA	JAKARTA TIMUR	CIRACAS	CIRACAS	7775	2	7634	123	16																							
+3175041003	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	DUKUH	2992	0	2937	43	12																							
+3175071001	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	DUREN SAWIT	8663	7	8432	123	101																							
+3174081004	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	DUREN TIGA	3856	5	3794	39	18																							
+3173051005	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	DURI KEPA	7523	9	7363	86	65																							
+3173011002	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	DURI KOSAMBI	7010	4	6883	87	36																							
+3171011006	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	DURI PULO	2123	2	2084	33	4																							
+3173041011	DKI JAKARTA	JAKARTA BARAT	TAMBORA	DURI SELATAN	1397	3	1357	23	14																							
+3173041003	DKI JAKARTA	JAKARTA BARAT	TAMBORA	DURI UTARA	1983	0	1950	28	5																							
+3171081003	DKI JAKARTA	JAKARTA PUSAT	JOHAR BARU	GALUR	1578	0	1550	25	3																							
+3171011001	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	GAMBIR	1610	0	1590	13	7																							
+3174061004	DKI JAKARTA	JAKARTA SELATAN	CILANDAK	GANDARIA SELATAN	3051	3	2994	37	17																							
+3174071009	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	GANDARIA UTARA	5146	1	5055	61	29																							
+3175051001	DKI JAKARTA	JAKARTA TIMUR	PASAR REBO	GEDONG	4647	4	4545	71	27																							
+3171071001	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	GELORA	766	0	758	7	1																							
+3173031007	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	GLODOK	1289	0	1261	22	6																							
+3171061004	DKI JAKARTA	JAKARTA PUSAT	MENTENG	GONDANGDIA	1180	0	1154	8	18																							
+3173021001	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	GROGOL	3490	4	3419	44	23																							
+3174051005	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	GROGOL SELATAN	4736	1	4637	58	40																							
+3174051004	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	GROGOL UTARA	4738	0	4637	63	38																							
+3174021007	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	GUNTUR	687	4	667	9	7																							
+3174071002	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	GUNUNG	3123	4	3059	29	31																							
+3171031005	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	GUNUNG SAHARI SELATAN	2963	2	2897	46	18																							
+3171021004	DKI JAKARTA	JAKARTA PUSAT	SAWAH BESAR	GUNUNG SAHARI UTARA	2608	3	2545	42	18																							
+3175081004	DKI JAKARTA	JAKARTA TIMUR	MAKASAR	HALIM PERDANA KUSUMAH	6452	11	6337	57	47																							
+3171031003	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	HARAPAN MULIA	2669	0	2617	46	6																							
+3174091001	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	JAGAKARSA	9153	2	8992	107	52																							
+3175021007	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	JATI	4903	10	4766	72	55																							
+3174041002	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	JATI PADANG	5192	3	5085	65	39																							
+3173071004	DKI JAKARTA	JAKARTA BARAT	PALMERAH	JATI PULO	2485	0	2421	51	13																							
+3175061001	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	JATINEGARA	5680	0	5582	81	17																							
+3175021004	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	JATINEGARA KAUM	2356	2	2312	41	1																							
+3173021004	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	JELAMBAR	5194	6	5096	63	29																							
+3173021006	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	JELAMBAR BARU	4997	7	4909	50	31																							
+3173041006	DKI JAKARTA	JAKARTA BARAT	TAMBORA	JEMBATAN BESI	2306	1	2260	34	11																							
+3173041008	DKI JAKARTA	JAKARTA BARAT	TAMBORA	JEMBATAN LIMA	1967	1	1937	27	2																							
+3173081005	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	JOGLO	5125	3	5030	46	46																							
+3171081001	DKI JAKARTA	JAKARTA PUSAT	JOHAR BARU	JOHAR BARU	5747	4	5656	71	16																							
+3173041002	DKI JAKARTA	JAKARTA BARAT	TAMBORA	KALI ANYAR	1645	2	1614	27	2																							
+3172041004	DKI JAKARTA	JAKARTA UTARA	CILINCING	KALI BARU	2371	0	2319	51	1																							
+3174081002	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	KALIBATA	5884	6	5765	89	24																							
+3173061001	DKI JAKARTA	JAKARTA BARAT	KALI DERES	KALIDERES	7061	8	6922	99	32																							
+3175051004	DKI JAKARTA	JAKARTA TIMUR	PASAR REBO	KALISARI	6111	1	5991	96	23																							
+3173061004	DKI JAKARTA	JAKARTA BARAT	KALI DERES	KAMAL	2447	3	2396	41	7																							
+3172011002	DKI JAKARTA	JAKARTA UTARA	PENJARINGAN	KAMAL MUARA	1780	4	1730	10	36																							
+3171071007	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	KAMPUNG BALI	1090	0	1065	21	4																							
+3175031001	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	KAMPUNG MELAYU	2085	0	2058	23	4																							
+3171081002	DKI JAKARTA	JAKARTA PUSAT	JOHAR BARU	KAMPUNG RAWA	2039	2	2004	32	1																							
+3175041002	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	KAMPUNG TENGAH	4667	2	4567	79	19																							
+3173011005	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	KAPUK	9246	0	9036	189	21																							
+3172011003	DKI JAKARTA	JAKARTA UTARA	PENJARINGAN	KAPUK MUARA	5156	11	5038	30	77																							
+3171021002	DKI JAKARTA	JAKARTA PUSAT	SAWAH BESAR	KARANG ANYAR	2896	0	2846	42	8																							
+3174021004	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	KARET	1581	2	1561	13	5																							
+3174021003	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	KARET KUNINGAN	4266	2	4190	47	27																							
+3174021002	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	KARET SEMANGGI	664	2	646	6	10																							
+3171071003	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	KARET TENGSIN	2598	1	2549	27	21																							
+3171021003	DKI JAKARTA	JAKARTA PUSAT	SAWAH BESAR	KARTINI	2911	1	2857	39	14																							
+3175011003	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	KAYU MANIS	3258	0	3204	42	12																							
+3175021006	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	KAYU PUTIH	6393	4	6255	73	61																							
+3173031006	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	KEAGUNGAN	1770	1	1748	14	7																							
+3174041007	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	KEBAGUSAN	5102	4	4990	69	39																							
+3174051006	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	KEBAYORAN LAMA SELATAN	5192	2	5079	84	27																							
+3174051001	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	KEBAYORAN LAMA UTARA	4626	3	4534	58	31																							
+3174011004	DKI JAKARTA	JAKARTA SELATAN	TEBET	KEBON BARU	4047	3	3954	61	29																							
+3172021005	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	KEBON BAWANG	5322	0	5253	63	6																							
+3173051001	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	KEBON JERUK	7867	2	7714	92	59																							
+3171071006	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	KEBON KACANG	2458	0	2401	44	13																							
+3171011005	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	KEBON KELAPA	1464	0	1433	15	16																							
+3171031002	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	KEBON KOSONG	4345	1	4271	57	16																							
+3175011005	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	KEBON MANGGIS	2280	0	2245	33	2																							
+3171071005	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	KEBON MELATI	2650	1	2597	43	9																							
+3175081003	DKI JAKARTA	JAKARTA TIMUR	MAKASAR	KEBON PALA	5384	6	5284	82	12																							
+3171061005	DKI JAKARTA	JAKARTA PUSAT	MENTENG	KEBON SIRIH	1360	0	1337	19	4																							
+3173011004	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	KEDAUNG KALI ANGKE	3036	0	2975	39	22																							
+3173051007	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	KEDOYA SELATAN	4039	1	3947	57	34																							
+3173051006	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	KEDOYA UTARA	5182	6	5069	61	46																							
+3173051004	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	KELAPA DUA	3306	1	3249	43	13																							
+3175091003	DKI JAKARTA	JAKARTA TIMUR	CIRACAS	KELAPA DUA WETAN	6189	1	6085	79	24																							
+3172061003	DKI JAKARTA	JAKARTA UTARA	KELAPA GADING	KELAPA GADING BARAT	7161	6	6989	65	101																							
+3172061001	DKI JAKARTA	JAKARTA UTARA	KELAPA GADING	KELAPA GADING TIMUR	7294	7	7104	70	113																							
+3173071005	DKI JAKARTA	JAKARTA BARAT	PALMERAH	KEMANGGISAN	4729	2	4620	65	42																							
+3171031001	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	KEMAYORAN	3646	1	3587	48	10																							
+3173081006	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	KEMBANGAN SELATAN	3958	1	3873	28	56																							
+3173081001	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	KEMBANGAN UTARA	5773	4	5633	72	64																							
+3171041002	DKI JAKARTA	JAKARTA PUSAT	SENEN	KENARI	1800	3	1763	20	14																							
+3173041005	DKI JAKARTA	JAKARTA BARAT	TAMBORA	KERENDANG	1710	0	1685	20	5																							
+3175071003	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	KLENDER	6528	2	6362	119	45																							
+3172031001	DKI JAKARTA	JAKARTA UTARA	KOJA	KOJA	2626	0	2583	41	2																							
+3173071006	DKI JAKARTA	JAKARTA BARAT	PALMERAH	KOTA BAMBU SELATAN	2315	0	2273	40	2																							
+3173071003	DKI JAKARTA	JAKARTA BARAT	PALMERAH	KOTA BAMBU UTARA	2191	1	2144	39	7																							
+3171041004	DKI JAKARTA	JAKARTA PUSAT	SENEN	KRAMAT	2872	0	2818	46	8																							
+3175041001	DKI JAKARTA	JAKARTA TIMUR	KRAMAT JATI	KRAMAT JATI	4499	2	4411	73	13																							
+3174071003	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	KRAMAT PELA	1753	3	1714	13	23																							
+3173031002	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	KRUKUT	1934	1	1897	21	15																							
+3174031005	DKI JAKARTA	JAKARTA SELATAN	MAMPANG PRAPATAN	KUNINGAN BARAT	1393	1	1375	9	8																							
+3174021008	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	KUNINGAN TIMUR	2393	1	2364	9	19																							
+3171041005	DKI JAKARTA	JAKARTA PUSAT	SENEN	KWITANG	1684	0	1653	26	5																							
+3172031003	DKI JAKARTA	JAKARTA UTARA	KOJA	LAGOA	4881	0	4784	86	11																							
+3174061002	DKI JAKARTA	JAKARTA SELATAN	CILANDAK	LEBAK BULUS	6410	8	6260	58	84																							
+3174091004	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	LENTENG AGUNG	5651	1	5568	71	11																							
+LUAR DKI JAKARTA	LUAR DKI JAKARTA	LUAR DKI JAKARTA	LUAR DKI JAKARTA	LUAR DKI JAKARTA	116883	39	114944	668	1232																							
+3175101007	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	LUBANG BUAYA	7521	0	7425	80	16																							
+3175081001	DKI JAKARTA	JAKARTA TIMUR	MAKASAR	MAKASAR	4729	0	4654	67	8																							
+3175071006	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	MALAKA JAYA	4312	0	4233	65	14																							
+3175071005	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	MALAKA SARI	4172	0	4076	72	24																							
+3174031001	DKI JAKARTA	JAKARTA SELATAN	MAMPANG PRAPATAN	MAMPANG PRAPATAN	2995	1	2941	35	18																							
+3173031005	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	MANGGA BESAR	1279	2	1252	15	10																							
+3171021005	DKI JAKARTA	JAKARTA PUSAT	SAWAH BESAR	MANGGA DUA SELATAN	2995	1	2938	41	15																							
+3174011007	DKI JAKARTA	JAKARTA SELATAN	TEBET	MANGGARAI	2511	1	2478	29	3																							
+3174011006	DKI JAKARTA	JAKARTA SELATAN	TEBET	MANGGARAI SELATAN	2708	1	2650	47	10																							
+3173031003	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	MAPHAR	1973	0	1927	33	13																							
+3172041003	DKI JAKARTA	JAKARTA UTARA	CILINCING	MARUNDA	1627	0	1605	22	0																							
+3174071001	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	MELAWAI	730	2	714	5	9																							
+3171061001	DKI JAKARTA	JAKARTA PUSAT	MENTENG	MENTENG	3208	5	3138	35	30																							
+3174021005	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	MENTENG ATAS	3839	0	3764	51	24																							
+3174011003	DKI JAKARTA	JAKARTA SELATAN	TEBET	MENTENG DALAM	4820	1	4710	56	53																							
+3173081003	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	MERUYA SELATAN	4526	1	4448	50	27																							
+3173081002	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	MERUYA UTARA	6041	4	5895	65	77																							
+3175101004	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	MUNJUL	3521	0	3475	37	9																							
+3172051002	DKI JAKARTA	JAKARTA UTARA	PADEMANGAN	PADEMANGAN BARAT	7006	2	6894	88	22																							
+3172051001	DKI JAKARTA	JAKARTA UTARA	PADEMANGAN	PADEMANGAN TIMUR	8054	1	7938	74	41																							
+3175011004	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	PAL MERIAM	2379	0	2335	33	11																							
+3173071001	DKI JAKARTA	JAKARTA BARAT	PALMERAH	PALMERAH	7771	4	7587	138	42																							
+3174081001	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	PANCORAN	2919	2	2865	34	18																							
+3172021003	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	PAPANGGO	3337	1	3279	38	19																							
+3171021001	DKI JAKARTA	JAKARTA PUSAT	SAWAH BESAR	PASAR BARU	2457	3	2415	25	14																							
+3174021006	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	PASAR MANGGIS	2926	0	2859	57	10																							
+3174041001	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	PASAR MINGGU	4628	0	4532	58	38																							
+3171041003	DKI JAKARTA	JAKARTA PUSAT	SENEN	PASEBAN	3646	0	3596	42	8																							
+3173061005	DKI JAKARTA	JAKARTA BARAT	KALI DERES	PEGADUNGAN	7754	10	7609	65	70																							
+3171061002	DKI JAKARTA	JAKARTA PUSAT	MENTENG	PEGANGSAAN	2841	0	2779	54	8																							
+3172061002	DKI JAKARTA	JAKARTA UTARA	KELAPA GADING	PEGANGSAAN DUA	7583	5	7410	74	94																							
+3172011004	DKI JAKARTA	JAKARTA UTARA	PENJARINGAN	PEJAGALAN	9132	6	8978	88	60																							
+3174041006	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	PEJATEN BARAT	5377	11	5242	63	61																							
+3174041005	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	PEJATEN TIMUR	5614	1	5488	97	28																							
+3175051005	DKI JAKARTA	JAKARTA TIMUR	PASAR REBO	PEKAYON	4302	0	4231	51	20																							
+3173041009	DKI JAKARTA	JAKARTA BARAT	TAMBORA	PEKOJAN	2751	2	2700	38	11																							
+3174031003	DKI JAKARTA	JAKARTA SELATAN	MAMPANG PRAPATAN	PELA MAMPANG	6010	5	5889	71	45																							
+3174081005	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	PENGADEGAN	3266	2	3202	41	21																							
+3175061003	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	PENGGILINGAN	7705	1	7556	119	29																							
+3172011001	DKI JAKARTA	JAKARTA UTARA	PENJARINGAN	PENJARINGAN	6830	3	6725	76	26																							
+3174101001	DKI JAKARTA	JAKARTA SELATAN	PESANGGRAHAN	PESANGGRAHAN	3498	2	3433	40	23																							
+3171071004	DKI JAKARTA	JAKARTA PUSAT	TANAH ABANG	PETAMBURAN	3216	0	3155	59	2																							
+3174071008	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	PETOGOGAN	1673	1	1642	20	10																							
+3171011004	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	PETOJO SELATAN	2438	3	2395	27	13																							
+3171011003	DKI JAKARTA	JAKARTA PUSAT	GAMBIR	PETOJO UTARA	2159	2	2108	33	16																							
+3174101004	DKI JAKARTA	JAKARTA SELATAN	PESANGGRAHAN	PETUKANGAN SELATAN	4150	1	4079	40	30																							
+3174101003	DKI JAKARTA	JAKARTA SELATAN	PESANGGRAHAN	PETUKANGAN UTARA	5682	3	5589	53	37																							
+3175081002	DKI JAKARTA	JAKARTA TIMUR	MAKASAR	PINANG RANTI	3294	0	3228	47	19																							
+3173031008	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	PINANGSIA	1214	1	1191	15	7																							
+3175011001	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	PISANGAN BARU	3597	0	3539	53	5																							
+3175021002	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	PISANGAN TIMUR	4893	1	4817	54	21																							
+3172011005	DKI JAKARTA	JAKARTA UTARA	PENJARINGAN	PLUIT	7597	6	7423	52	116																							
+3175071002	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	PONDOK BAMBU	8370	2	8193	121	54																							
+3175071004	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	PONDOK KELAPA	8601	6	8374	118	103																							
+3175071007	DKI JAKARTA	JAKARTA TIMUR	DUREN SAWIT	PONDOK KOPI	3605	0	3525	69	11																							
+3174061003	DKI JAKARTA	JAKARTA SELATAN	CILANDAK	PONDOK LABU	5944	3	5820	72	49																							
+3174051002	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN LAMA	PONDOK PINANG	8020	8	7786	86	140																							
+3175101003	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	PONDOK RANGGON	3553	0	3526	19	8																							
+PROSES UPDATE DATA	PROSES UPDATE DATA	PROSES UPDATE DATA	PROSES UPDATE DATA	PROSES UPDATE DATA	89634	44	88203	937	450																							
+3101011003	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU UTARA	PULAU HARAPAN	101	0	98	3	0																							
+3101011002	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU UTARA	PULAU KELAPA	212	0	211	1	0																							
+3101011001	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU UTARA	PULAU PANGGANG	431	0	429	2	0																							
+3101021003	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU SELATAN	PULAU PARI	263	0	261	2	0																							
+3101021002	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU SELATAN	PULAU TIDUNG	337	0	331	6	0																							
+3101021001	DKI JAKARTA	KAB.ADM.KEP.SERIBU	KEP. SERIBU SELATAN	PULAU UNTUNG JAWA	148	0	146	2	0																							
+3174071007	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	PULO	1237	3	1195	13	26																							
+3175021001	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	PULO GADUNG	4089	2	3999	53	35																							
+3175061005	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	PULO GEBANG	7241	1	7109	114	17																							
+3174041004	DKI JAKARTA	JAKARTA SELATAN	PASAR MINGGU	RAGUNAN	5352	2	5246	83	21																							
+3175091005	DKI JAKARTA	JAKARTA TIMUR	CIRACAS	RAMBUTAN	4146	3	4077	57	9																							
+3172031006	DKI JAKARTA	JAKARTA UTARA	KOJA	RAWA BADAK SELATAN	3378	1	3330	44	3																							
+3172031004	DKI JAKARTA	JAKARTA UTARA	KOJA	RAWA BADAK UTARA	3010	0	2956	44	10																							
+3174071005	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	RAWA BARAT	967	3	943	9	12																							
+3173011003	DKI JAKARTA	JAKARTA BARAT	CENGKARENG	RAWA BUAYA	5362	0	5270	71	21																							
+3175031004	DKI JAKARTA	JAKARTA TIMUR	JATINEGARA	RAWA BUNGA	1978	1	1946	23	8																							
+3174081003	DKI JAKARTA	JAKARTA SELATAN	PANCORAN	RAWA JATI	4017	3	3945	33	36																							
+3175061002	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	RAWA TERATE	1414	1	1392	21	0																							
+3175021005	DKI JAKARTA	JAKARTA TIMUR	PULO GADUNG	RAWAMANGUN	5489	4	5379	84	22																							
+3171051003	DKI JAKARTA	JAKARTA PUSAT	CEMPAKA PUTIH	RAWASARI	4703	1	4641	41	20																							
+3173041010	DKI JAKARTA	JAKARTA BARAT	TAMBORA	ROA MALAKA	459	0	446	8	5																							
+3172041006	DKI JAKARTA	JAKARTA UTARA	CILINCING	ROROTAN	3200	0	3154	44	2																							
+3174071004	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	SELONG	673	1	655	6	11																							
+3173061002	DKI JAKARTA	JAKARTA BARAT	KALI DERES	SEMANAN	3724	1	3650	56	17																							
+3172041007	DKI JAKARTA	JAKARTA UTARA	CILINCING	SEMPER BARAT	5974	2	5875	86	11																							
+3172041005	DKI JAKARTA	JAKARTA UTARA	CILINCING	SEMPER TIMUR	3170	0	3116	49	5																							
+3174071006	DKI JAKARTA	JAKARTA SELATAN	KEBAYORAN BARU	SENAYAN	1269	1	1261	2	5																							
+3171041001	DKI JAKARTA	JAKARTA PUSAT	SENEN	SENEN	1472	0	1446	18	8																							
+3171031004	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	SERDANG	3786	0	3711	62	13																							
+3174021001	DKI JAKARTA	JAKARTA SELATAN	SETIA BUDI	SETIA BUDI	1117	0	1102	8	7																							
+3175101005	DKI JAKARTA	JAKARTA TIMUR	CIPAYUNG	SETU	2827	2	2798	17	10																							
+3173071002	DKI JAKARTA	JAKARTA BARAT	PALMERAH	SLIPI	2997	1	2947	33	16																							
+3173081004	DKI JAKARTA	JAKARTA BARAT	KEMBANGAN	SRENGSENG	5801	4	5676	75	46																							
+3174091002	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	SRENGSENG SAWAH	7012	0	6902	90	20																							
+3173051003	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	SUKABUMI SELATAN	3196	0	3149	37	10																							
+3173051002	DKI JAKARTA	JAKARTA BARAT	KEBON JERUK	SUKABUMI UTARA	4162	1	4096	51	14																							
+3172041002	DKI JAKARTA	JAKARTA UTARA	CILINCING	SUKAPURA	4212	1	4126	55	30																							
+3171031007	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	SUMUR BATU	3519	3	3445	48	23																							
+3172021004	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	SUNGAI BAMBU	2931	1	2897	29	4																							
+3172021006	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	SUNTER AGUNG	9696	11	9469	118	98																							
+3172021002	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	SUNTER JAYA	9073	2	8919	108	44																							
+3175091004	DKI JAKARTA	JAKARTA TIMUR	CIRACAS	SUSUKAN	4316	0	4231	72	13																							
+3173031001	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	TAMAN SARI	2147	3	2102	24	18																							
+3173041001	DKI JAKARTA	JAKARTA BARAT	TAMBORA	TAMBORA	1253	0	1218	26	9																							
+3173041004	DKI JAKARTA	JAKARTA BARAT	TAMBORA	TANAH SEREAL	2904	3	2859	27	15																							
+3171081004	DKI JAKARTA	JAKARTA PUSAT	JOHAR BARU	TANAH TINGGI	3012	0	2945	53	14																							
+3173031004	DKI JAKARTA	JAKARTA BARAT	TAMAN SARI	TANGKI	1746	0	1709	23	14																							
+3174091005	DKI JAKARTA	JAKARTA SELATAN	JAGAKARSA	TANJUNG BARAT	5003	2	4896	64	41																							
+3173021005	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	TANJUNG DUREN SELATAN	4604	3	4502	49	50																							
+3173021002	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	TANJUNG DUREN UTARA	3527	1	3448	38	40																							
+3172021001	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	TANJUNG PRIOK	3202	0	3151	48	3																							
+3174011002	DKI JAKARTA	JAKARTA SELATAN	TEBET	TEBET BARAT	4666	4	4580	44	38																							
+3174011001	DKI JAKARTA	JAKARTA SELATAN	TEBET	TEBET TIMUR	3772	1	3690	42	39																							
+3173061003	DKI JAKARTA	JAKARTA BARAT	KALI DERES	TEGAL ALUR	6531	3	6422	85	21																							
+3174031004	DKI JAKARTA	JAKARTA SELATAN	MAMPANG PRAPATAN	TEGAL PARANG	3418	0	3353	45	20																							
+3173021003	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	TOMANG	3974	4	3895	38	37																							
+3172031005	DKI JAKARTA	JAKARTA UTARA	KOJA	TUGU SELATAN	3344	1	3292	39	12																							
+3172031002	DKI JAKARTA	JAKARTA UTARA	KOJA	TUGU UTARA	6066	0	5956	102	8																							
+3175061006	DKI JAKARTA	JAKARTA TIMUR	CAKUNG	UJUNG MENTENG	2729	1	2682	30	16																							
+3174101005	DKI JAKARTA	JAKARTA SELATAN	PESANGGRAHAN	ULUJAMI	4442	1	4361	59	21																							
+3175011006	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	UTAN KAYU SELATAN	5117	4	5020	84	9																							
+3175011002	DKI JAKARTA	JAKARTA TIMUR	MATRAMAN	UTAN KAYU UTARA	3512	0	3428	70	14																							
+3171031008	DKI JAKARTA	JAKARTA PUSAT	KEMAYORAN	UTAN PANJANG	2612	0	2566	41	5																							
+3172021007	DKI JAKARTA	JAKARTA UTARA	TANJUNG PRIOK	WARAKAS	3865	0	3807	54	4																							
+3173021007	DKI JAKARTA	JAKARTA BARAT	GROGOL PETAMBURAN	WIJAYA KUSUMA	4393	1	4309	56	27																							
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
